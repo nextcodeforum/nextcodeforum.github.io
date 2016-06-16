@@ -102,16 +102,23 @@ li:last-child {
 }
 
 /*--Start Parallax--*/
-#portraitskorri{
+/*#portraitskorri{
     padding: 1%;
     width:8.5%;
     position: absolute;
     top: 0px;
     right: 0px;
-}
+}*/
 
 .header{
-    
+
+    text-align:center;
+    font-size: 275%;
+    color: black;
+    letter-spacing: 1%;
+    margin 45% 0;
+    padding-top: 5%;
+    padding-bottom: 5%;
     background: url("http://www.skystarventures.com/wp-content/uploads/2014/03/White-Background.jpg") repeat fixed 100%;
 
 }

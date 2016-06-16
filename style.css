@@ -5,7 +5,7 @@
 }
 h1 {
     text-align:center;
-    font-size: 275%;
+    font-size: 100%%;
     color: black;
     letter-spacing: 1%;
     margin 45% 0;
@@ -123,8 +123,8 @@ li:last-child {
 
 }
 
-.nav{
-     background: url("http://www.w3newbie.com/wp-content/uploads/parallax-2.jpg") repeat fixed 100%;
+.forum{
+     background: url("http://www.skystarventures.com/wp-content/uploads/2014/03/White-Background.jpg") repeat fixed 100%;
      background-color: none;
      padding-left: 25%;
      padding-right: 15%;
